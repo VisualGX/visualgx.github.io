@@ -1,23 +1,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://visualgx.pl/home.html</loc>
+		<loc>https://visualgx.pl/page1.html</loc>
 	</url>
 	<url>
-		<loc>https://visualgx.pl/gallery.html</loc>
+		<loc>https://visualgx.pl/page2.html</loc>
 	</url>
 	<url>
-		<loc>https://visualgx.pl/logos.html</loc>
+		<loc>https://visualgx.pl/page3.html</loc>
 	</url>
 	<url>
-		<loc>https://visualgx.pl/banners.html</loc>
+		<loc>https://visualgx.pl/page4.html</loc>
 	</url>
 	<url>
-		<loc>https://visualgx.pl/videos.html</loc>
+		<loc>https://visualgx.pl/page5.html</loc>
 	</url>
 	<url>
-		<loc>https://visualgx.pl/animations.html</loc>
+		<loc>https://visualgx.pl/page6.html</loc>
 	</url>
 	<url>
-		<loc>https://visualgx.pl/other.html</loc>
+		<loc>https://visualgx.pl/index.html</loc>
 	</url>
 </urlset>
