@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "VisualGX.pl",
-    "currentPage": "home.html",
+    "name": "My Site",
+    "currentPage": "other.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -60,7 +60,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "cwq7k1sbrf",
+    "mbrsiteDomain": "visualgx",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -72,7 +72,7 @@
     "gdpr": false,
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
